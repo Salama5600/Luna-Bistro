@@ -1,0 +1,6 @@
+{
+  "name": "Luna Bistro — Modern Mediterranean Bistro",
+  "description": "Where Every Dish Tells a Story. Modern Mediterranean dining concept with seasonal menu, atmospheric storytelling, and reservation booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
